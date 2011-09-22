@@ -1,0 +1,8 @@
+logging = "info"
+instances = 100 
+per_thread = 10
+size = "m1.large"
+ami = "ami-409a6429"
+amazon_id = ""
+amazon_key = ""
+location = 'us-east-1b'
